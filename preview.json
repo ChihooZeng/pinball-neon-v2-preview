@@ -1,0 +1,9 @@
+{
+  "visualEdition": "V2",
+  "sourceBranch": "codex/v2-neon-ring-20261120",
+  "sourceCommit": "710014799d1d09aba888cfd368f8ca28fc29d22a",
+  "basedOn": "0fb86d0e5e6a0bdd2b157fe21b6ec42c3b7817e6",
+  "rollbackPreview": "https://chihoozeng.github.io/pinball-neon-visual-preview/demo/v1/",
+  "entry": "demo/v1/",
+  "screens": "screens/"
+}
